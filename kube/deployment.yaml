@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: movella/nginx:abs
+        image: anirav32/movella
         ports:
         - containerPort: 80
 
